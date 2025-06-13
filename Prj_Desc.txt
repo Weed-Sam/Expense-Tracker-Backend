@@ -1,0 +1,6 @@
+This project is based on Full Stack,
+It uses React + Django.
+The project in question is Expense Tracker.
+
+It has 1 Admin & multiple Users. 
+Also follows CRUD operation.
